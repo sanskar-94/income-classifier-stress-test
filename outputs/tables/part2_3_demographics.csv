@@ -1,0 +1,17 @@
+,50-row sample,all 838 confident errors,full test set
+n,50.0,838.0,14637.0
+mean age,41.5,43.4,38.8
+median age,38.5,41.0,37.0
+age under 30 (%),8.0,11.5,29.5
+age 30-49 (%),64.0,58.6,48.1
+age 50+ (%),28.0,30.0,22.4
+male (%),78.0,75.2,66.3
+married (%),68.0,63.7,45.6
+White (%),90.0,87.5,86.0
+Black (%),4.0,6.9,9.4
+born outside US (%),6.0,9.1,8.4
+bachelor's or higher (%),46.0,35.8,25.2
+mean education_num,11.1,10.7,10.1
+works 40+ hours (%),90.0,86.0,75.7
+any capital gain (%),10.0,13.2,8.4
+actually earns >50K (%),74.0,74.3,24.0

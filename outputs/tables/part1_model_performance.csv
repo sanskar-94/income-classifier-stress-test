@@ -1,0 +1,9 @@
+,Model A (OLS),Model B (Logit)
+train R^2,0.370527,0.392918
+test R^2,0.371878,
+test RMSE,0.338386,0.327185
+test AUC,0.89415,0.898149
+predictions < 0,0.216369,0.0
+predictions > 1,0.004168,0.0
+min prediction,-0.359593,0.000199
+max prediction,1.249188,0.997096

@@ -1,0 +1,4 @@
+group,n,rate_over_50K,crude_coef,crude_ci_low,crude_ci_high,crude_p,adj_coef,adj_se,adj_ci_low,adj_ci_high,adj_p,adj_odds_ratio,converged
+Full training set,34153,0.239247,1.26206,1.196497,1.327622,0.0,0.159928,0.048834,0.064214,0.255642,0.001057,1.173426,True
+Subgroup A: married,15735,0.443597,-0.0169,-0.116961,0.083161,0.740622,-0.288399,0.065071,-0.415936,-0.160861,9e-06,0.749463,True
+Subgroup B: unmarried,18418,0.064665,0.598796,0.477904,0.719688,0.0,0.739585,0.079228,0.5843,0.89487,0.0,2.095065,True

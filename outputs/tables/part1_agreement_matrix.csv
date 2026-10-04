@@ -1,0 +1,4 @@
+Model A rule,B low (p < 0.5),B high (p >= 0.5),Total
+A low (< median),7318,0,7318
+A high (>= median),4471,2848,7319
+Total,11789,2848,14637

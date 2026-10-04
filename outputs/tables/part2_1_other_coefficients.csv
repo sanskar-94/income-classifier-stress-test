@@ -1,0 +1,6 @@
+,Full training set,Subgroup A: married,Subgroup B: unmarried
+sex_Male,0.159928,-0.288399,0.739585
+age,0.361581,0.303058,0.637202
+education_num,0.757155,0.714177,0.860594
+hours_per_week,0.368277,0.319603,0.532822
+capital_gain,0.514136,0.424872,0.678955

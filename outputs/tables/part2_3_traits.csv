@@ -1,0 +1,9 @@
+,sample_pct,test_pct,lift
+bachelor's or higher,46.0,25.18,1.83
+married,68.0,45.56,1.49
+aged 30+ AND works 40+ hours,82.0,57.34,1.43
+aged 30+,92.0,70.48,1.31
+works 40+ hours,90.0,75.71,1.19
+male,78.0,66.28,1.18
+private sector,74.0,74.89,0.99
+no capital gain,90.0,91.58,0.98
